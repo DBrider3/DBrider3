@@ -1,4 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=DaeBeomCho&fontSize=119)
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 
 [![dcho's 42 stats](https://badge42.herokuapp.com/api/stats/dcho?privacyEmail=true)](https://github.com/dcho/badge42)
 
