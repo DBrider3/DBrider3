@@ -2,10 +2,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 I am a student studying development in 42Seoul 🌱
 
-[![dcho's 42 stats](https://badge42.herokuapp.com/api/stats/dcho?privacyEmail=true)](https://github.com/dcho/badge42)
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl82zh3wk00540gjxiagqpqbr/stats?cursusId=21&coalitionId=85" alt="dcho's 42 stats" /></a>
 
 
 <!--
