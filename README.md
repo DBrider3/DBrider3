@@ -3,9 +3,11 @@
 ### Hi there 👋
 
 🌱 I used to study at 42seoul. 🌱
-🌱 **Developed and managed the following:
+
+🌱 Developed and managed the following:
 Service/manager API servers based on Python-Django REST Framework
-B2B service platform operation** 🌱
+B2B service platform operation 🌱
+
 🌱 I am currently working as a co-founder at Humaner AI.  🌱
 
 <!--
