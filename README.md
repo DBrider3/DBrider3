@@ -8,9 +8,6 @@ Service/manager API servers based on Python-Django REST Framework
 B2B service platform operation** 🌱
 🌱 I am currently working as a co-founder at Humaner AI.  🌱
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl82zh3wk00540gjxiagqpqbr/stats?cursusId=21&coalitionId=85" alt="dcho's 42 stats" /></a>
-
-
 <!--
 **DBrider3/DBrider3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
