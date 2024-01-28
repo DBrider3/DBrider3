@@ -8,8 +8,6 @@
 Service/manager API servers based on Python-Django REST Framework
 B2B service platform operation 🌱
 
-🌱 I am currently working as a co-founder at Humaner AI.  🌱
-
 <!--
 **DBrider3/DBrider3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
