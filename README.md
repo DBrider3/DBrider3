@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=DaeBeomCho&fontSize=119)
+# 안녕하세요, 신입 개발자 조대범입니다.
+---
+- 정보보호학과를 전공했으며, 웹보안의 공부하던중 개발에 흥미를 가지게 되었습니다.
 
 ### Hi there 👋
 
