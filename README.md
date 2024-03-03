@@ -1,11 +1,6 @@
 # 안녕하세요, 신입 개발자 조대범입니다.
----
 - 정보보호학과를 전공했으며, 웹보안의 공부하던중 개발에 흥미를 가지게 되었습니다.
 
-
-🌱 Developed and managed the following:
-Service/manager API servers based on Python-Django REST Framework
-B2B service platform operation 🌱
 
 <!--
 **DBrider3/DBrider3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
