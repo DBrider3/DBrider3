@@ -1,5 +1,5 @@
 # 안녕하세요, 신입 개발자 조대범입니다.
-- 정보보호학과 전공으로, 웹보안 공부중 개발에 흥미를 가지게 된 개발자
+- 정보보호학과 전공으로, 웹보안 공부중 개발에 흥미를 가지게 된 개발자 조대범 입니다.
 
 
 <!--
@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dominic743)](https://solved.ac/dominic743)
+
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" />
+</a>
 
 ---
 ### 경력
@@ -39,4 +43,5 @@ Here are some ideas to get you started:
 - 정보처리산업기사 (2016.11)
 
 ### 교육
+- 항해 플러스 AI 코스 3기 과정 수료 (2025.03.22 ~ 2025.05.24)
 - 42Seoul 2기, 공통 과정 수료 (2020.10 ~ 2022.09)
