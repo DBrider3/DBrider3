@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 ### Experience.
 |Company Name|Position|Period|
 |---|---|---|
-|<a href="https://www.timeedu.co.kr/">타임교육</a>|BackEnd Engineer|24.05 ~ |
+|<a href="https://snapcompany.net/">스냅컴퍼니</a>|BackEnd Engineer|25.12 ~ ing|
+|<a href="https://www.timeedu.co.kr/">타임교육</a>|BackEnd Engineer|24.05 ~ 25.11|
 |<a href="https://www.steelboso.com/">마켓오브메테리얼</a>|BackEnd Engineer|22.10 ~ 23.08|
 
 ### Project.
